@@ -4,8 +4,9 @@
 * Download the data from this link to a folder 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+* Create folder c:/temp in your hard drive.
 
-* Unzip the file to a folder. A folder Named 'UCI HAR Dataset' will be created. Under this folder, two subfolders will be created.  
+* Unzip the file to c:/temp. A folder Named 'UCI HAR Dataset' will be created. Under this folder, two subfolders will be created.  
   
 * The R script is using functions that need plyr R package. Be sure plyr is installed.  
 
