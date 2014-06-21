@@ -31,8 +31,10 @@ From each window, a vector of features was obtained by calculating variables fro
 
 The Tidy Data Set contains data set for 30 volunteered attended the experiment. 
 As each volunteer were involved in 6 activities, there are several metrics gathered for each activity per volunteer. 
+
 Because each activity for the same volunteer repeated more than once, the tidy data set represents the average value of those metrics per volunteer per activity. 
-Therefore there are 6 * 30 = 180 rows in the tidy data set.
+
+Therefore there are total of 6 * 30 = 180 rows in the tidy data set.
 
 
 ## CodeBook
