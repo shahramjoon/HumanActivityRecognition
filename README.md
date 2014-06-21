@@ -19,11 +19,16 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 * To get a sense of dataset and its contents,  Run commands like:
  
-   ** nrow(d)
-   ** ncol(d)
-   ** summary(d)
-   ** colnames(d)
-   ** str(d) 
+    nrow(d)
+   
+    ncol(d)
+   
+    summary(d)
+   
+    colnames(d)
+   
+    str(d) 
+   
    
   
    
