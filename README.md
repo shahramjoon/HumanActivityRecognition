@@ -30,5 +30,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
     str(d) 
    
    
-  
+ ## Logic behind run_analysis function 
+ 
+ In run_analysis.R ,  There are comments for each command used in function that makes understanding the code easy to follow. 
+ 
    

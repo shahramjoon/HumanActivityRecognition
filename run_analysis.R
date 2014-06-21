@@ -13,7 +13,7 @@ run_analysis <- function() {
   colnames(activity_labels_data) <- c("ACTIVITY_ID", "ACTIVITY_NAME")
   
   
-  # Read Mtrics or Features File
+  # Read Metrics or Features File
   
   metrics_label_data <- read.csv ("features.txt" , sep = " ", header=FALSE)
   
